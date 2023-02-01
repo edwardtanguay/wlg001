@@ -1,1 +1,4 @@
-- build HTML into the website
+- x build HTML into the website
+- x add image to HTML page and public
+- .. add link to HTML learn page
+
