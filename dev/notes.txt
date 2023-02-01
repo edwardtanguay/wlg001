@@ -1,4 +1,11 @@
 - x build HTML into the website
 - x add image to HTML page and public
-- .. add link to HTML learn page
-
+- x add link to HTML learn page
+- x build CSS into the Seite   
+    - x change link color to orange
+    - x change description text to italic
+    - x more space on right side of list items
+    - x make list items larger
+- x add learn link for CSS
+- x add space above list items
+- x add space between list items
